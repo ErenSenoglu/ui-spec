@@ -1,6 +1,6 @@
 # User Interface Specification Document
 ## Main Page
-Main page will have the users table where each row displays a user's features. Each user will be displayed with the _'ID', 'User Name', 'Email' and 'Enabled'_ information. At the top of the users table one button to add new user and one click box to hide disabled users will be placed. When click box is selected users which are disabled will be removed from the table and when it's unselected disabled users must be displayed in the table. When the new user button is clicked user will be directed to another page to fill out new user form. 
+Main page will have the users table where each row displays a user's features. Each user will be displayed with the _'ID', 'User Name', 'Email' and 'Enabled'_ information. At the top of the users table one button to add new user and one click box to hide disabled users will be placed. Column labels must have options to filter and sort the column. With these column values can be sorted in ascending or descending order or can be filtered to take out some values. When click box is selected users which are disabled will be removed from the table and when it's unselected disabled users must be displayed in the table. When the new user button is clicked user will be directed to another page to fill out new user form. 
 ## Form Page
 Form will ask user to input followings:
 - Username 
